@@ -391,7 +391,7 @@ if __name__ == '__main__':
 
 	# Set the URL and path for the Chrome driver
 	url = 'https://www.humboldtbroncos.com/stats/player-stats/16/41?playertype=skater&position=skaters&rookie=no&sort=points&statstype=standard&page=1&league=3'
-	path = '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/selenium/webdriver/common/chromedriver'
+	path = 'paste chromedriver path here'
 
 	# Try getting the data 10 times in case page loads incorrectly
 	success = False
