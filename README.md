@@ -17,7 +17,7 @@ pip install bs4
 pip install selenium
 ```
 
-The latest version of chromedriver is needed to run this program, and can be downloaded [HERE](https://chromedriver.chromium.org/downloads)
+The latest version of chromedriver is needed to run this program, and can be downloaded [here](https://chromedriver.chromium.org/downloads)
 
 ## Contributing
 Pull requests are welcome. For any major changes you wish to make, please open an issue first.
