@@ -1,7 +1,7 @@
 # Player Statistics Web Scraper
 This is a web scraper program that retrieves pictures and saves hockey player statistics into a .CSV file. This program can be modified to get player statistics from any website that uses the HockeyTech LeagueStat API.
 
-## Note
+Note:
 
 I first created this program when I was first learning Python and have since updated it, making it more streamlined as I have learned more
 about the Python language. I first created this program to compile player data into a .CSV and download player pictures in order to create
