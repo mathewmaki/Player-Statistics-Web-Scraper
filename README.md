@@ -9,8 +9,7 @@ custom player cards inside of Photoshop for my local hockey team.
 
 ## Getting Started
 
-Use the package manager [pip]
-(https://pip.pypa.io/en/stable/) to install the necessary Python modules.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the necessary Python modules.
 
 ```bash
 pip install urllib
@@ -18,8 +17,7 @@ pip install bs4
 pip install selenium
 ```
 
-The latest version of chromedriver is needed to run this program, and can be downloaded [HERE]
-(https://chromedriver.chromium.org/downloads)
+The latest version of chromedriver is needed to run this program, and can be downloaded [HERE](https://chromedriver.chromium.org/downloads)
 
 ## Contributing
 Pull requests are welcome. For any major changes you wish to make, please open an issue first.
